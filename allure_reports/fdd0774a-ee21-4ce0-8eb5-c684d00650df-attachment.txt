@@ -1,0 +1,2 @@
+[1m[31mERROR   [0m asyncio:base_events.py:1591 Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x03AB7970>
